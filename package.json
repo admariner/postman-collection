@@ -56,7 +56,7 @@
     "browserify": "17.0.0",
     "btoa": "1.2.1",
     "chai": "4.3.4",
-    "chalk": "2.4.2",
+    "chalk": "4.1.1",
     "dependency-check": "4.1.0",
     "eslint": "5.16.0",
     "eslint-plugin-jsdoc": "8.1.0",
