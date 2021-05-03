@@ -47,7 +47,7 @@
     "postman-url-encoder": "3.0.1",
     "sanitize-html": "1.20.1",
     "semver": "7.3.5",
-    "uuid": "3.4.0"
+    "uuid": "8.3.2"
   },
   "devDependencies": {
     "@postman/shipit": "0.3.0",
